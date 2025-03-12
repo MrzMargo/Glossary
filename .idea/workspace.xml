@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bff2182-fe09-449d-a7b9-01c6ae76ea5b" name="Changes" comment="adding yml file">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="8bff2182-fe09-449d-a7b9-01c6ae76ea5b" name="Changes" comment="changin html">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,13 +156,22 @@
       <option name="project" value="LOCAL" />
       <updated>1741759574273</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="changin html">
+      <option name="closed" value="true" />
+      <created>1741759730578</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1741759730578</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="creating files" />
     <MESSAGE value="changing name" />
     <MESSAGE value="adding yml file" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding yml file" />
+    <MESSAGE value="changin html" />
+    <option name="LAST_COMMIT_MESSAGE" value="changin html" />
   </component>
 </project>
